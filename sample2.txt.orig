@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+"This is a text file in the Master branch. New text content. 
+=======
+"This is a text file in the GitNewBranch branch. This is for the conflict to arise.
+>>>>>>> GitWork
